@@ -1,4 +1,4 @@
-                                                                                   # Workshop for Hogeschool Windesheim - Countries of the World - Structured Solution
+# Workshop for Hogeschool Windesheim - Countries of the World - Structured Solution
 
 ## Introduction
 Tests the functionality of naming all countries in the JetPunk country quiz.
